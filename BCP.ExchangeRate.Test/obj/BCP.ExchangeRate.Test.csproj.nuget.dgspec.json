@@ -1,0 +1,534 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Test\\BCP.ExchangeRate.Test.csproj": {}
+  },
+  "projects": {
+    "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.BusinessLogic\\BCP.ExchangeRate.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.BusinessLogic\\BCP.ExchangeRate.BusinessLogic.csproj",
+        "projectName": "BCP.ExchangeRate.BusinessLogic",
+        "projectPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.BusinessLogic\\BCP.ExchangeRate.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\rvilca\\.nuget\\packages\\",
+        "outputPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rvilca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Domain\\BCP.ExchangeRate.Domain.csproj": {
+                "projectPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Domain\\BCP.ExchangeRate.Domain.csproj"
+              },
+              "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Repository.SqlServer\\BCP.ExchangeRate.Repository.Redis.csproj": {
+                "projectPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Repository.SqlServer\\BCP.ExchangeRate.Repository.Redis.csproj"
+              },
+              "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Repository\\BCP.ExchangeRate.Repository.csproj": {
+                "projectPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Repository\\BCP.ExchangeRate.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.36, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "ScrapySharp": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Common\\BCP.ExchangeRate.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Common\\BCP.ExchangeRate.Common.csproj",
+        "projectName": "BCP.ExchangeRate.Common",
+        "projectPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Common\\BCP.ExchangeRate.Common.csproj",
+        "packagesPath": "C:\\Users\\rvilca\\.nuget\\packages\\",
+        "outputPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rvilca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Domain\\BCP.ExchangeRate.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Domain\\BCP.ExchangeRate.Domain.csproj",
+        "projectName": "BCP.ExchangeRate.Domain",
+        "projectPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Domain\\BCP.ExchangeRate.Domain.csproj",
+        "packagesPath": "C:\\Users\\rvilca\\.nuget\\packages\\",
+        "outputPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rvilca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Repository.SqlServer\\BCP.ExchangeRate.Repository.Redis.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Repository.SqlServer\\BCP.ExchangeRate.Repository.Redis.csproj",
+        "projectName": "BCP.ExchangeRate.Repository.Redis",
+        "projectPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Repository.SqlServer\\BCP.ExchangeRate.Repository.Redis.csproj",
+        "packagesPath": "C:\\Users\\rvilca\\.nuget\\packages\\",
+        "outputPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Repository.SqlServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rvilca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Domain\\BCP.ExchangeRate.Domain.csproj": {
+                "projectPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Domain\\BCP.ExchangeRate.Domain.csproj"
+              },
+              "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Repository\\BCP.ExchangeRate.Repository.csproj": {
+                "projectPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Repository\\BCP.ExchangeRate.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.48, )"
+            },
+            "System.DirectoryServices": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Repository\\BCP.ExchangeRate.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Repository\\BCP.ExchangeRate.Repository.csproj",
+        "projectName": "BCP.ExchangeRate.Repository",
+        "projectPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Repository\\BCP.ExchangeRate.Repository.csproj",
+        "packagesPath": "C:\\Users\\rvilca\\.nuget\\packages\\",
+        "outputPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rvilca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Common\\BCP.ExchangeRate.Common.csproj": {
+                "projectPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Common\\BCP.ExchangeRate.Common.csproj"
+              },
+              "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Domain\\BCP.ExchangeRate.Domain.csproj": {
+                "projectPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Domain\\BCP.ExchangeRate.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Test\\BCP.ExchangeRate.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Test\\BCP.ExchangeRate.Test.csproj",
+        "projectName": "BCP.ExchangeRate.Test",
+        "projectPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Test\\BCP.ExchangeRate.Test.csproj",
+        "packagesPath": "C:\\Users\\rvilca\\.nuget\\packages\\",
+        "outputPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rvilca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.WebAPI\\BCP.ExchangeRate.WebAPI.csproj": {
+                "projectPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.WebAPI\\BCP.ExchangeRate.WebAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[108.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.WebAPI\\BCP.ExchangeRate.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.WebAPI\\BCP.ExchangeRate.WebAPI.csproj",
+        "projectName": "BCP.ExchangeRate.WebAPI",
+        "projectPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.WebAPI\\BCP.ExchangeRate.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\rvilca\\.nuget\\packages\\",
+        "outputPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rvilca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.BusinessLogic\\BCP.ExchangeRate.BusinessLogic.csproj": {
+                "projectPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.BusinessLogic\\BCP.ExchangeRate.BusinessLogic.csproj"
+              },
+              "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Repository.SqlServer\\BCP.ExchangeRate.Repository.Redis.csproj": {
+                "projectPath": "E:\\PERSONAL\\PRY\\BCP\\BCP.ExchangeRate\\BCP.ExchangeRate.Repository.SqlServer\\BCP.ExchangeRate.Repository.Redis.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.2.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.11.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

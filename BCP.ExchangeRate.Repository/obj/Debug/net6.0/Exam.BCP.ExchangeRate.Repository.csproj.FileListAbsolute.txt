@@ -1,0 +1,17 @@
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Repository\bin\Debug\net6.0\Exam.BCP.ExchangeRate.Repository.deps.json
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Repository\bin\Debug\net6.0\Exam.BCP.ExchangeRate.Repository.dll
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Repository\bin\Debug\net6.0\Exam.BCP.ExchangeRate.Repository.pdb
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Repository\bin\Debug\net6.0\Exam.BCP.ExchangeRate.Common.dll
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Repository\bin\Debug\net6.0\Exam.BCP.ExchangeRate.Domain.dll
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Repository\bin\Debug\net6.0\Exam.BCP.ExchangeRate.Common.pdb
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Repository\bin\Debug\net6.0\Exam.BCP.ExchangeRate.Domain.pdb
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Repository\obj\Debug\net6.0\Exam.BCP.ExchangeRate.Repository.csproj.AssemblyReference.cache
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Repository\obj\Debug\net6.0\Exam.BCP.ExchangeRate.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Repository\obj\Debug\net6.0\Exam.BCP.ExchangeRate.Repository.AssemblyInfoInputs.cache
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Repository\obj\Debug\net6.0\Exam.BCP.ExchangeRate.Repository.AssemblyInfo.cs
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Repository\obj\Debug\net6.0\Exam.BCP.ExchangeRate.Repository.csproj.CoreCompileInputs.cache
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Repository\obj\Debug\net6.0\Exam.BCP.ExchangeRate.Repository.csproj.CopyComplete
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Repository\obj\Debug\net6.0\Exam.BCP.ExchangeRate.Repository.dll
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Repository\obj\Debug\net6.0\refint\Exam.BCP.ExchangeRate.Repository.dll
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Repository\obj\Debug\net6.0\Exam.BCP.ExchangeRate.Repository.pdb
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Repository\obj\Debug\net6.0\ref\Exam.BCP.ExchangeRate.Repository.dll

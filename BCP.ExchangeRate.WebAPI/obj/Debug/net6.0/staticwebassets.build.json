@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "L1Ar2zO3slSDVtnhJLWl40q/iOWOyurNO8pkINCc+6c=",
+  "Source": "BCP.ExchangeRate.WebAPI",
+  "BasePath": "_content/BCP.ExchangeRate.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Common\bin\Debug\net6.0\GrupoRPP.Scan.Common.deps.json
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Common\bin\Debug\net6.0\GrupoRPP.Scan.Common.dll
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Common\bin\Debug\net6.0\GrupoRPP.Scan.Common.pdb
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Common\obj\Debug\net6.0\GrupoRPP.Scan.Common.csproj.AssemblyReference.cache
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Common\obj\Debug\net6.0\GrupoRPP.Scan.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Common\obj\Debug\net6.0\GrupoRPP.Scan.Common.AssemblyInfoInputs.cache
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Common\obj\Debug\net6.0\GrupoRPP.Scan.Common.AssemblyInfo.cs
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Common\obj\Debug\net6.0\GrupoRPP.Scan.Common.csproj.CoreCompileInputs.cache
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Common\obj\Debug\net6.0\GrupoRPP.Scan.Common.dll
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Common\obj\Debug\net6.0\refint\GrupoRPP.Scan.Common.dll
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Common\obj\Debug\net6.0\GrupoRPP.Scan.Common.pdb
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Common\obj\Debug\net6.0\ref\GrupoRPP.Scan.Common.dll

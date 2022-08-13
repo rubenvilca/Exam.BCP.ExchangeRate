@@ -1,0 +1,5 @@
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Test\obj\Debug\net6.0\BCP.ExchangeRate.Test.csproj.AssemblyReference.cache
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Test\obj\Debug\net6.0\BCP.ExchangeRate.Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Test\obj\Debug\net6.0\BCP.ExchangeRate.Test.AssemblyInfoInputs.cache
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Test\obj\Debug\net6.0\BCP.ExchangeRate.Test.AssemblyInfo.cs
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Test\obj\Debug\net6.0\BCP.ExchangeRate.Test.csproj.CoreCompileInputs.cache

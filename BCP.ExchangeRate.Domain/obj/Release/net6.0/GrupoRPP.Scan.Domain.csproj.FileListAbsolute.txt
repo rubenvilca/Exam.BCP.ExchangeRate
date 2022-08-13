@@ -1,0 +1,12 @@
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Domain\bin\Release\net6.0\GrupoRPP.Scan.Domain.deps.json
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Domain\bin\Release\net6.0\GrupoRPP.Scan.Domain.dll
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Domain\bin\Release\net6.0\GrupoRPP.Scan.Domain.pdb
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Domain\obj\Release\net6.0\GrupoRPP.Scan.Domain.csproj.AssemblyReference.cache
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Domain\obj\Release\net6.0\GrupoRPP.Scan.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Domain\obj\Release\net6.0\GrupoRPP.Scan.Domain.AssemblyInfoInputs.cache
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Domain\obj\Release\net6.0\GrupoRPP.Scan.Domain.AssemblyInfo.cs
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Domain\obj\Release\net6.0\GrupoRPP.Scan.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Domain\obj\Release\net6.0\GrupoRPP.Scan.Domain.dll
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Domain\obj\Release\net6.0\refint\GrupoRPP.Scan.Domain.dll
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Domain\obj\Release\net6.0\GrupoRPP.Scan.Domain.pdb
+C:\Users\rvilca\Desktop\GrupoRpp.Scan\GrupoRPP.Scan.Domain\obj\Release\net6.0\ref\GrupoRPP.Scan.Domain.dll

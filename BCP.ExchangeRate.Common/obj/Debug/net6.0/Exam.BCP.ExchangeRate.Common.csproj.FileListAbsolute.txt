@@ -1,0 +1,12 @@
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Common\bin\Debug\net6.0\Exam.BCP.ExchangeRate.Common.deps.json
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Common\bin\Debug\net6.0\Exam.BCP.ExchangeRate.Common.dll
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Common\bin\Debug\net6.0\Exam.BCP.ExchangeRate.Common.pdb
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Common\obj\Debug\net6.0\Exam.BCP.ExchangeRate.Common.csproj.AssemblyReference.cache
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Common\obj\Debug\net6.0\Exam.BCP.ExchangeRate.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Common\obj\Debug\net6.0\Exam.BCP.ExchangeRate.Common.AssemblyInfoInputs.cache
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Common\obj\Debug\net6.0\Exam.BCP.ExchangeRate.Common.AssemblyInfo.cs
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Common\obj\Debug\net6.0\Exam.BCP.ExchangeRate.Common.csproj.CoreCompileInputs.cache
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Common\obj\Debug\net6.0\Exam.BCP.ExchangeRate.Common.dll
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Common\obj\Debug\net6.0\refint\Exam.BCP.ExchangeRate.Common.dll
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Common\obj\Debug\net6.0\Exam.BCP.ExchangeRate.Common.pdb
+E:\PERSONAL\PRY\BCP\BCP.ExchangeRate\BCP.ExchangeRate.Common\obj\Debug\net6.0\ref\Exam.BCP.ExchangeRate.Common.dll
